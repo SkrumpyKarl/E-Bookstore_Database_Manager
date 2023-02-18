@@ -1,4 +1,4 @@
-E-Bookstore Database
+# E-Bookstore Database
 This is a Python program developed in Visual Studio Code (VSC) that uses the SQLite extension to manage a database of books. The program is written in Python 3.11, and the SQLite extension is used to retrieve and display databases and tables in the SQLite Explorer output window.
 
 The program is configured to use a database called "ebookstore_db.db" that includes a table named "books". If the database does not exist, the program will create it and save it in the same directory as the program file. A confirmation message will be displayed indicating the successful creation of the database.
